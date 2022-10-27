@@ -1,0 +1,130 @@
+*
+{
+
+    padding: 0;
+
+    margin: 0;
+}
+
+h1
+
+{
+    padding: 0;
+    margin: 0;
+    color: #444;
+
+}
+
+body
+{
+    background-image: url("download.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color : #666;
+    font: 14px/24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form
+{
+
+    font: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    padding: 22px;
+
+    width : 45px ;
+    height: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    background-color: #fff;
+
+    padding: 40px;
+
+
+    border-radius: 10px;
+
+    border-style: solid;
+
+    border-color: #f2f2f2;
+
+    
+
+}
+
+img  
+{
+
+    height: 45px;
+    width: 45px;
+
+}
+
+input, textarea
+
+{
+
+
+
+    border: 1px solid gray;
+
+    border-radius: 2px 2px 2px 2px;
+
+    border-color: gray;
+
+    padding: 8px;
+
+    font-size: 14px;
+
+    width: 95%;
+
+    
+
+}
+
+label
+
+{
+
+    color: #545658;
+
+
+    margin-bottom: 5px;
+
+    font-weight: bold;
+
+    font-size: 12px;
+
+}
+
+.sub
+
+{
+
+    border: 1px solid #b7d6df;
+
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+
+    font-size: 14px ;
+
+    color: #437182;
+
+    font-style: oblique;
+
+    width: auto;
+
+    height: auto;
+
+
+    padding: 6px 10px;
+
+    margin: 2px;
+
+    float: right;
+
+    box-shadow: 0 1px 0 #FFFFFF;
+
+
+
+}
